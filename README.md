@@ -1,11 +1,11 @@
 ### Hey 👋 ,
 
-I'm Jorge Jaramillo, a software engineer from Valencia (Spain) that ended up living in Berlin. I first came for an internship at [Tandem](https://tandem.net/) and here I am: 4 winters old. I currently work at Wunderflats, where we are enabling people to live anywhere anytime. Wunderflats is a marketplace for furnished apartments. It just lets you rent long term apartments online. I am mostly using js to solve all the challenges that come, and of course I build tiny shell scripts to make my life easier. I used to solve problems in the past in Java, PHP, MySQL... but at [Zenjob](https://github.com/zenjob) I had the chance to really get my hands on js and I fall in love 💜 .
+I'm Jorge Jaramillo, a software engineer from Valencia (Spain) that ended up living in Berlin. I first came for an internship at [Tandem](https://tandem.net/) and here I am: 4 winters old. I currently work at Wunderflats, where we are enabling people to live anywhere anytime. Wunderflats is a marketplace for furnished apartments. It just lets you rent long term apartments online. I am mostly using js to solve all the challenges that come, and of course I build tiny shell scripts to make my life easier from time to time. I used to solve problems in the past in Java, PHP, MySQL... but at [Zenjob](https://github.com/zenjob) I had the chance to really get my hands on js and I fall in love 💜 .
 
 
 #### 👨🏽‍💻 Companies I have been part of:
 
-[Wunderflats](https://wunderflats.com/en): Fullstack engineer since Jan 2019. React, Node.js, Express, MongoDB, GraphQL, Next.js, HTML, SCSS...
+[Wunderflats](https://wunderflats.com/en): Fullstack engineer since Jan 2019. React, Jest, Enzyme, Node.js, Express, MongoDB, GraphQL, Next.js, HTML, SCSS...
 
 [Zenjob](https://www.zenjob.de/): Junior frontend developer from mid 2017 - end 2018. JS, React, Gatsby, SCSS, HTML.
 
